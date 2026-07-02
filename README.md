@@ -1,2 +1,5 @@
-# java.wire.3d.view
-java.wire.3d.view  java 3d wire
+openjdk-asmtools-jasm Hello.jasm -w .
+
+sudo dnf install openjdk-asmtools.noarch
+
+/usr/bin/openjdk-asmtools-jdis -w . Hello.class
